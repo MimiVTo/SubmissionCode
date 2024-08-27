@@ -1,0 +1,43 @@
+div{
+    background-color: #d29091;
+    margin: 0 auto;
+    width:650px;
+    box-shadow: 5px 5px 10px #914f50;
+    padding: 10px 20px 20px 20px;
+    border: 5px solid white;
+}
+
+h2{
+    font-family: serif;
+    color:#efdada;
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+    font-family: serif;
+    color:#efdada;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input{
+    font-family: serif;
+    background-color:#efdada;
+    color:#d29091;
+    border:#efdada;
+    width: 500px;
+    height: 30px;
+    margin: 10px 10px 10px 60px;
+}
+
+.Done{
+    width:100px;
+    color: #d29091;
+    margin: 20px 50px 20px 270px;
+    height:40px;
+}
+
+body{
+    background:"strawberry.jpeg";
+}
